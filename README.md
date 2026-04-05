@@ -29,7 +29,7 @@ This project analyzes churn patterns, identifies key drivers, predicts high-risk
 ### 📊 Dashboard Preview
 
 
-![Customer Churn Dashboard](Customer Churn Intelligence Dashboard.png)
+![Customer Churn Dashboard](Customer_Churn_Intelligence_Dashboard.png)
 
 
 ### 📂 Dataset
