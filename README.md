@@ -1,21 +1,38 @@
-# 📊 Customer Churn Analysis Project
+## 📊 Customer Churn Analysis Dashboard (Power BI + Python)
+### 🎯 Project Objective
 
-## 🎯 Objective
-Analyze customer churn, identify key drivers, and provide actionable business recommendations to improve retention.
+Customer churn is a major challenge for subscription-based businesses — losing customers directly impacts revenue.
 
-## 🛠 Tools Used
+This project analyzes churn patterns, identifies key drivers, predicts high-risk segments, and provides actionable recommendations to improve retention.
+
+### 📈 Key Features
+- KPI metrics (Churn rate, Revenue at risk, Support usage)
+- Churn trend analysis by tenure, revenue, and support interactions
+- High-risk customer segmentation
+- Interactive Power BI filters for retention scenario analysis
+
+### 🛠 Tools Used
 - Python (Pandas, Seaborn)
 - Power BI
 
-## 📊 Key Insights
-- High churn observed in early customer lifecycle (0–12 months)
-- High-paying customers are more likely to churn
-- Customers without tech support show higher churn rates
+### 📊 Insights
+- High churn occurs in the first 0–12 months of the customer lifecycle
+- High-paying customers are more likely to churn, representing revenue risk
+- Customers without tech support show significantly higher churn rates
 
-## 📈 Dashboard
-Interactive Power BI dashboard included in repository.
+### 📁 Files Included
+- Jupyter Notebook (.ipynb) – Analysis & visualizations
+- Power BI Dashboard (.pbix) – Interactive dashboard
+- Project Report (.pdf) – Summary of findings & recommendations
+- Screenshot (.png) – Key dashboard view
 
-## 📁 Files Included
-- Jupyter Notebook (Analysis)
-- Power BI Dashboard (.pbix)
-- Project Report (PDF)
+### 📊 Dashboard Preview
+
+
+![Customer Churn Dashboard](Customer_Churn_Intelligence_Dashboard.png)
+
+
+### 📂 Dataset
+The dataset used in this project is a simulated customer churn dataset for analysis and dashboard building.
+
+⭐ Feel free to explore the files and give feedback!
